@@ -29,9 +29,7 @@ int main() {
         contRainha++;
     } while (contRainha < movimentoRainha);
 
-    //Movimento do Cavalo : for e while
-        
-            
+    //Movimento do Cavalo : for e while           
     int movimentoCavaloCima = 2;
     printf("Movimento Cavalo:\n");
         for (int movimentoCavaloLado = 0; movimentoCavaloLado < 1;movimentoCavaloLado++){

@@ -62,8 +62,7 @@ int main() {
     printf("\n");
 
     //Movimento do Cavalo          
-    printf("Movimento da Cavalo:\n");
-    printf("Movimento Cavalo:\n");
+    printf("Movimento Do Cavalo:\n");
     movimentoCavalo(3, 2);
 
     return 0;
